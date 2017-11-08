@@ -7,3 +7,4 @@ main: plugin\Main
 commands:
  marry:
   description: commands
+
